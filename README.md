@@ -1,3 +1,5 @@
+![headshot](WGI_0010.JPG)
+
 # HelloWorld
 Personal Web Page
 
